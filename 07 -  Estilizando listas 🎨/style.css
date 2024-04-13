@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style: square inside url(./icone.png);
+    background-color: yellow;
+}
+
+ol {
+    
+    list-style: square inside url(./icone.png);
+    background-color: orangered;
+}
+
+ul li{
+    border: 1px solid black;
+
+}
+
+ol li{
+    border: 1px solid blue;
+
+}
